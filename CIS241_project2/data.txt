@@ -1,0 +1,1 @@
+apple 25.000000 pounds 1.250000 dollars
